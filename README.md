@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aksharapurwar01
-- 👀 I’m interested in Web Designing,Machine Learning.
-- 🌱 I’m currently learning Bootstrap,jquery
+- 👀 I’m interested in Web Designing,Machine Learning,java.
+- 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
